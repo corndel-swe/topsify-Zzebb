@@ -13,6 +13,7 @@ VALUES ('Vincenza.Kovacek', 'Vincenza', 'Kovacek', 'Vincenza.Kovacek35@hotmail.c
 --     email: 'Vincenza.Kovacek35@hotmail.com',
 --     username: 'Vincenza.Kovacek',
 --     password: 'oH_d5pqv7Ne0_Mc'
+-- Test perms
 --   },
 --   {
 --     first_name: 'Lionel',
